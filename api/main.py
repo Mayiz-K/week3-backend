@@ -46,7 +46,8 @@ def get_example2(name):    # can also pass in parameters
     """
     return {"message": f"Hello {name}!"}
 
-
+data = 
+{"yes", "no", "maybe"}
 
 
 # TO RUN:
